@@ -1,0 +1,3 @@
+rootProject.name = 'NVDB'
+
+include ':app'
